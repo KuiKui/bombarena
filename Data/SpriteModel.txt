@@ -1,0 +1,14 @@
+#BEGIN_SPRITE_MODEL
+
+#SET_DIRECTORY .\Data\Perso\
+perso.spr				;the only sprite for the moment
+
+#SET_DIRECTORY .\Data\Items\
+bomb.spr				;bomb
+
+#SET_DIRECTORY .\Data\Fire\
+fire.spr				;the flams
+
+#END_SPRITE_MODEL
+;
+;

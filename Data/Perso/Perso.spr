@@ -1,0 +1,24 @@
+#BEGIN_SPRITE
+
+#SET_DIRECTORY		.\Data\Perso\
+
+haut_move.kms		1
+bas_move.kms		2
+gauche_move.kms		3
+droite_move.kms		4
+haut_stop.kms		5
+bas_stop.kms		6
+gauche_stop.kms		7
+droite_stop.kms		8
+
+#END_SPRITE
+
+
+;#define		BMOD_PLAYER_UP			1
+;#define		BMOD_PLAYER_DOWN		2
+;#define		BMOD_PLAYER_LEFT		3
+;#define		BMOD_PLAYER_RIGHT		4
+;#define		BMOD_PLAYER_UP_STOP		5
+;#define		BMOD_PLAYER_DOWN_STOP		6
+;#define		BMOD_PLAYER_LEFT_STOP		7
+;#define		BMOD_PLAYER_RIGHT_STOP		8

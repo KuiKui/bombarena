@@ -1,0 +1,767 @@
+# Microsoft Developer Studio Generated Dependency File, included by BMTools.mak
+
+.\BMClientServer.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMServer.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMConsole.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMImage.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMConsoleBasicCommands.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMConsoleScript.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMConsoleUI.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMWin32.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMWin32Console.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMWin32Keys.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMList.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMWin32Timer.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMFile.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMGlobalInit.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMImage.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMMenu.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMDebug.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMUIFont.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMImage.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMUIOS.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMImage.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMMap.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGame.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMImage.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMAnim.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMImage.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMSprite.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMPlayer.cpp : \
+	"..\BaseMOD\BMod.h"\
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGame.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMBonus.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBonus.h"\
+	".\BMEntity.h"\
+	".\BMGlobalInclude.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMSprite.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMBombs.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMEntity.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMImage.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMGlobalInclude.h"\
+	".\BMImage.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMMenu.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMMenu.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMMenuBehavior.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMMenu.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMGame.cpp : \
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGame.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BMClient.cpp : \
+	"..\BaseMOD\BMod.h"\
+	"..\KMLLight\kmllight.h"\
+	".\BMAnims.h"\
+	".\BMBombs.h"\
+	".\BMBonus.h"\
+	".\BMClient.h"\
+	".\BMClientServer.h"\
+	".\BMConsole.h"\
+	".\BMDebug.h"\
+	".\BMEntity.h"\
+	".\BMFile.h"\
+	".\BMGame.h"\
+	".\BMGlobalInclude.h"\
+	".\BMGlobalInit.h"\
+	".\BMKeys.h"\
+	".\BMList.h"\
+	".\BMMap.h"\
+	".\BMPlayer.h"\
+	".\BMServer.h"\
+	".\BMSprite.h"\
+	".\BMTimer.h"\
+	".\BMUIFont.h"\
+	".\BMUIOS.h"\
+	".\BMWin32.h"\
+	".\BMWin32Keys.h"\
+	".\BMWin32Type.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	

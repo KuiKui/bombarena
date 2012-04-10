@@ -1,0 +1,31 @@
+# Microsoft Developer Studio Generated Dependency File, included by KMLLight.mak
+
+.\control.cpp : \
+	".\kmllight.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\direct.cpp : \
+	".\kmllight.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\images.cpp : \
+	".\kmllight.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\memory.cpp : \
+	".\kmllight.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\pack.cpp : \
+	".\kmllight.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\sound.cpp : \
+	".\kmllight.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	

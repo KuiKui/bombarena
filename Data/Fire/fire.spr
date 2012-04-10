@@ -1,0 +1,16 @@
+#BEGIN_SPRITE
+
+#SET_DIRECTORY		.\Data\Fire\
+
+fire_boom.kms		1
+fire_up.kms			2
+fire_down.kms		3
+fire_left.kms		4
+fire_right.kms		5
+fire_center.kms		6
+fire_vertical.kms	7
+fire_horizon.kms	8
+
+#END_SPRITE
+
+

@@ -1,0 +1,18 @@
+#BEGIN_FONT_MODEL
+
+#SET_DIRECTORY .\Data\Font\
+
+#SETFONT	font.bmp		normal		14 16 0 0	;the name of the font is normal
+#SETFONT	font.bmp		selection	14 16 0 0	;the name of the font is selection
+#SETFONT	minifont.bmp	mini		04 06 0 0	;the name of the font is mini
+
+#SETDEGRADE	normal		255 255 000 255 000 000 0
+#SETDEGRADE	selection	255 000 000 255 000 000 0
+#SETDEGRADE	mini		255 000 000 000 000 255 0
+
+#SETUNACTIVE selection
+
+#END_FONT_MODEL
+
+;#SETFONT		[BMPFILE]	[FONTNAME] [WIDTH] [HEIGHT] [SPACEX] [SPACEY]
+;#SETDEGRADE		[FONTNAME] [R1] [G1] [B1] [R2] [G2] [B2] [ISVERTICAL]

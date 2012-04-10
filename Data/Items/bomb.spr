@@ -1,0 +1,9 @@
+#BEGIN_SPRITE
+
+#SET_DIRECTORY		.\Data\Items\
+
+bomb.kms		1
+
+#END_SPRITE
+
+

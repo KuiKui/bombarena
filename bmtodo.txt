@@ -1,0 +1,125 @@
+//*********************************************************************
+//* Todo File
+//*--------------------------------------------------------------------
+//*  
+//*                                                                    
+//*--------------------------------------------------------------------
+//* AUTHOR  : Mrk, MORB, MikE					    11/01/2001 14:51:31
+//*********************************************************************
+
+
+//--------------------------------
+// Mrk
+//--------------------------------
+
+18/01/2001 15:45:59 ->	BMod		: revoir le probleme des touches... Merci
+
+//--------------------------------
+// MORB
+//--------------------------------
+
+11/01/2001 17:27:32	->	bmtodo.txt	: put MORB in uppercase (as it always should be)										->Done
+
+					->	BMTools		: Server-side player and events management
+
+					->	BMTools		: Complete client-side player management
+
+					->	KMLLight	: Port this mess on Amiga
+
+					->	MikE		: Kill him like a bitch with the blue glove the next time we play atomic bomberman
+
+					->	BMTools		: Port this shit on Amiga
+
+					->	MrK			: Put my fingers on his monitor															->Done
+
+12/01/2001 17:30:08	->	MrK			: Make him understand that when he has a question about
+									  anything in bomberman, he should ask MikE and nobody else
+									  (especially not me)
+					
+					->	Mrk			: Fuck him
+
+//--------------------------------
+// MikE
+//--------------------------------
+
+11/01/2001 14:52:40 ->	KmlLight	: add the flag of creation of image when we reload to know what to do ...				->Done
+
+11/01/2001 14:53:22 ->	BmTools		: add sound...
+
+11/01/2001 15:11:08 ->	KmlLight	: add a function KMLPACKOPEN to replace all '\\' by '/' in the path name				->Done
+					
+					->  All library	: replace all fopen by FOPEN which is in BMFile.h										->Done
+
+12/01/2001 18:44:20	->	All libraries : Change everything so that nothing can compile and work. Don't forget to checkin.	->Done
+
+16/01/2001 17:27:53 ->  BmTools		: sprite.h and cpp, finish the end function and all comments							->Done
+
+16/01/2001 18:43:55 ->	All libraries : hein ?																				->Done
+
+17/01/2001 12:49:54	->	KMLLight	: replace all the KMLAlloc by ALLOC, and KMLFree by FREE macros	(except in memory.cpp)	->Done
+
+18/01/2001 10:27:36 ->	BMTools		: revise BMSpriteSetPosition... (pour les cas onmap, invalid...
+
+18/01/2001 11:07:40 ->  BmTools&Mod	: revise memory leak, in each "classes"													->Done
+	
+										BMList	->Ok						/
+										BMTimer	->Ok						-/
+										BMFile	->Ok						-/
+										BMDebug	->Ok						-/
+										BMUIFont->Ok						-/
+										BMUIOS	->Not Started Yet			*
+										BMPlayer->Ok				1		/
+										BMMap						3		/
+										BMAnim	->Ok				8		/
+										BMSprite->Ok				8		/
+										BMGame	->Not Started Yet			*
+										BMClient->Ok (Morb)					-/
+
+										BMGlobalInit						-/
+										BMWin32								-/
+										BMWin32Console						-/
+										BMWin32Keys					1		/
+										BMConsoleUI							-/
+										BMConsoleScript						-/
+										BMConsoleBasicCommands				-/
+										BMConsole					6 ??		
+																	
+										BMServer					1		/
+										BMClientServer				1		/
+																	
+										BaseMod								-/
+										BModClose							-/
+										BModInit					1 ??
+										BModProceed							-/
+
+
+18/01/2001 11:26:22 ->	BmTools&Mod	: see what to do to free the mod data player											->Done
+
+18/01/2001 14:40:50	->	BmTools		: revise the loading of all models in a file modelsprite & modelanims
+									  to do at the starting of the mod...
+
+19/01/2001 17:55:48 ->	BmTools		: revise all the entity functions, and also in the map, replace the array				->Done
+									  bmmaptype by an array of entity
+
+19/01/2001 17:58:41	->	BmTools		: create the bonus classe, and the bombs classe...										->Done
+
+23/01/2001 15:44:18 ->	BmTools		: replace all the constant 50 & 74 by a variable of map so that the screen can squeeze
+
+23/01/2001 17:26:49 ->	BmTools		: see with kui kui how to set the entity position in entity set pos...					->Done
+									  and also to write into the map object
+
+24/01/2001 17:30:34 ->	BmTools		: revise in map, the bmmaptypearray, problem with dynamic allocation, revise also		->Done
+									  the mapsetobject function...
+
+25/01/2001 09:30:18 ->	BmTools|Light:correct the flicking on the map...													->Done
+		
+25/01/2001 09:33:56 ->  BMTools		: add the entity to a array of entity...												->Done
+
+25/01/2001 10:34:12 ->	BMTools		: when an object of entity is deleted destroy it in the array if it is in...			->Done
+
+25/01/2001 10:48:42 ->	BMTools		: see what to do if we set on object on the map of entity,								->Done 
+									  and if there's another object... ->To be check by the mod
+
+02/03/2001 13:04:37 ->  BMTools		: get a good timer...
+
+03/04/2001 13:51:21 ->  Light		: get a default input device, test for keyboard, mouse, joypad, cause there's not necessary a mouse or keyboard on dreamcast

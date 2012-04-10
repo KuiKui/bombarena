@@ -1,0 +1,20 @@
+#BEGIN_MENU
+
+#SET_DIRECTORY .\Data\Menu\
+
+#SET_BACKGROUND	Menu.bmp	NORMAL ;the picture of the background
+
+#SET_TEXTS 1 X100 Y120 NORMAL normal selection Create a new game
+#SET_TEXTS 2 X100 Y150 NORMAL normal selection Join a game
+#SET_TEXTS 3 X100 Y180 NORMAL normal selection Setup
+#SET_TEXTS 4 X100 Y210 NORMAL normal selection Options
+#SET_TEXTS 5 X100 Y240 NORMAL normal selection Credits
+#SET_TEXTS 6 X100 Y290 NORMAL normal selection Quit
+#SET_TEXT  7 X100 Y450 NORMAL mini	Test avec la fonte pourri de MORB la pute
+
+#END_MENU
+
+
+;#SET_TEXT	[TEXTID] [X---] [Y---] [FLAG] [FONTNAME] [TEXT]
+;#SET_TEXTS [TEXTID] [X---] [Y---] [FLAG] [FONTNAME1] [FONTNAME2] [TEXT]
+;#SET_BOX	[BOXID]  [X---] [Y---] [WITDH] [HEIGHT] [FLAG] [FONTNAME] [TEXT] 

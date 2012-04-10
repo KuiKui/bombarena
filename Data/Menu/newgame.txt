@@ -1,0 +1,15 @@
+#BEGIN_MENU
+
+#SET_DIRECTORY .\Data\Menu\
+
+#SET_BACKGROUND	Menu.bmp	NORMAL ;the picture of the background
+
+#SET_TEXT 1 X100 Y120 NORMAL normal Play
+#SET_TEXT 2 X100 Y150 NORMAL normal Back
+
+#SET_BOX  3 X300 Y100 X350 Y150 MOSAIC normal choix de la map ;dans la futur le texte sera mis dans la barre systeme
+
+#END_MENU
+;#SET_TEXT [TEXTID] [X---] [Y---] [FLAG] [FONTNAME] [TEXT]
+;#SET_TEXTS [TEXTID] [X---] [Y---] [FLAG] [FONTNAME1] [FONTNAME2] [TEXT]
+;#SET_BOX	[BOXID]  [X---] [Y---] [WITDH] [HEIGHT] [FLAG] [FONTNAME] [TEXT] 

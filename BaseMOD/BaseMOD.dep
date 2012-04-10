@@ -1,0 +1,121 @@
+# Microsoft Developer Studio Generated Dependency File, included by BaseMOD.mak
+
+.\BaseMOD.cpp : \
+	"..\BMTools\BMAnims.h"\
+	"..\BMTools\BMBombs.h"\
+	"..\BMTools\BMBonus.h"\
+	"..\BMTools\BMClient.h"\
+	"..\BMTools\BMClientServer.h"\
+	"..\BMTools\BMConsole.h"\
+	"..\BMTools\BMDebug.h"\
+	"..\BMTools\BMEntity.h"\
+	"..\BMTools\BMFile.h"\
+	"..\BMTools\BMGame.h"\
+	"..\BMTools\BMGlobalInclude.h"\
+	"..\BMTools\BMGlobalInit.h"\
+	"..\BMTools\BMKeys.h"\
+	"..\BMTools\BMList.h"\
+	"..\BMTools\BMMap.h"\
+	"..\BMTools\BMPlayer.h"\
+	"..\BMTools\BMServer.h"\
+	"..\BMTools\BMSprite.h"\
+	"..\BMTools\BMTimer.h"\
+	"..\BMTools\BMUIFont.h"\
+	"..\BMTools\BMUIOS.h"\
+	"..\BMTools\BMWin32.h"\
+	"..\BMTools\BMWin32Keys.h"\
+	"..\BMTools\BMWin32Type.h"\
+	"..\KMLLight\kmllight.h"\
+	".\BMod.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BModClose.cpp : \
+	"..\BMTools\BMAnims.h"\
+	"..\BMTools\BMBombs.h"\
+	"..\BMTools\BMBonus.h"\
+	"..\BMTools\BMClient.h"\
+	"..\BMTools\BMClientServer.h"\
+	"..\BMTools\BMConsole.h"\
+	"..\BMTools\BMDebug.h"\
+	"..\BMTools\BMEntity.h"\
+	"..\BMTools\BMFile.h"\
+	"..\BMTools\BMGame.h"\
+	"..\BMTools\BMGlobalInclude.h"\
+	"..\BMTools\BMGlobalInit.h"\
+	"..\BMTools\BMKeys.h"\
+	"..\BMTools\BMList.h"\
+	"..\BMTools\BMMap.h"\
+	"..\BMTools\BMPlayer.h"\
+	"..\BMTools\BMServer.h"\
+	"..\BMTools\BMSprite.h"\
+	"..\BMTools\BMTimer.h"\
+	"..\BMTools\BMUIFont.h"\
+	"..\BMTools\BMUIOS.h"\
+	"..\BMTools\BMWin32.h"\
+	"..\BMTools\BMWin32Keys.h"\
+	"..\BMTools\BMWin32Type.h"\
+	"..\KMLLight\kmllight.h"\
+	".\BMod.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BModInit.cpp : \
+	"..\BMTools\BMAnims.h"\
+	"..\BMTools\BMBombs.h"\
+	"..\BMTools\BMBonus.h"\
+	"..\BMTools\BMClient.h"\
+	"..\BMTools\BMClientServer.h"\
+	"..\BMTools\BMConsole.h"\
+	"..\BMTools\BMDebug.h"\
+	"..\BMTools\BMEntity.h"\
+	"..\BMTools\BMFile.h"\
+	"..\BMTools\BMGame.h"\
+	"..\BMTools\BMGlobalInclude.h"\
+	"..\BMTools\BMGlobalInit.h"\
+	"..\BMTools\BMKeys.h"\
+	"..\BMTools\BMList.h"\
+	"..\BMTools\BMMap.h"\
+	"..\BMTools\BMPlayer.h"\
+	"..\BMTools\BMServer.h"\
+	"..\BMTools\BMSprite.h"\
+	"..\BMTools\BMTimer.h"\
+	"..\BMTools\BMUIFont.h"\
+	"..\BMTools\BMUIOS.h"\
+	"..\BMTools\BMWin32.h"\
+	"..\BMTools\BMWin32Keys.h"\
+	"..\BMTools\BMWin32Type.h"\
+	"..\KMLLight\kmllight.h"\
+	".\BMod.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\BModProceed.cpp : \
+	"..\BMTools\BMAnims.h"\
+	"..\BMTools\BMBombs.h"\
+	"..\BMTools\BMBonus.h"\
+	"..\BMTools\BMClient.h"\
+	"..\BMTools\BMClientServer.h"\
+	"..\BMTools\BMConsole.h"\
+	"..\BMTools\BMDebug.h"\
+	"..\BMTools\BMEntity.h"\
+	"..\BMTools\BMFile.h"\
+	"..\BMTools\BMGame.h"\
+	"..\BMTools\BMGlobalInclude.h"\
+	"..\BMTools\BMGlobalInit.h"\
+	"..\BMTools\BMKeys.h"\
+	"..\BMTools\BMList.h"\
+	"..\BMTools\BMMap.h"\
+	"..\BMTools\BMPlayer.h"\
+	"..\BMTools\BMServer.h"\
+	"..\BMTools\BMSprite.h"\
+	"..\BMTools\BMTimer.h"\
+	"..\BMTools\BMUIFont.h"\
+	"..\BMTools\BMUIOS.h"\
+	"..\BMTools\BMWin32.h"\
+	"..\BMTools\BMWin32Keys.h"\
+	"..\BMTools\BMWin32Type.h"\
+	"..\KMLLight\kmllight.h"\
+	".\BMod.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	

@@ -1,0 +1,29 @@
+#BEGIN_FILE_DESCRIPTION
+
+#SET_DIRECTORY .\Data\Map\
+	#DESTRUCTIBLE	brique.kms	
+	#UNDESTRUCTIBLE pierre.kms	
+			
+#SET_PLAYER	10 10
+
+#SET_DENSITY 90
+
+#ACTIVE_ASCII
+
+#END_FILE_DESCRIPTION
+
+#BEGIN_MAP
+
+	- - - - - O O O O O O O O O O
+	O - - - - . . . . . . . . . O
+	O - - - - - - - - - - - - . O
+	O - - . . . - - - . . - - . O
+	O - - . . . - - - . . . - - -
+	O - - O O O - - - . . . - - -
+	O - - - - - - - - - . . - - O
+	O - - . . . . . . - - . - - O
+	O - - - - - - . - - - - - - O
+	O - - - - - - . - - - - - - O
+	O O O O O O O . . . . . . . O
+
+#END_MAP

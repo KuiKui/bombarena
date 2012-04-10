@@ -1,0 +1,29 @@
+# Microsoft Developer Studio Generated Dependency File, included by Bomberman.mak
+
+.\BomberMan.cpp : \
+	".\BMTools\BMAnims.h"\
+	".\BMTools\BMBombs.h"\
+	".\BMTools\BMBonus.h"\
+	".\BMTools\BMClient.h"\
+	".\BMTools\BMClientServer.h"\
+	".\BMTools\BMConsole.h"\
+	".\BMTools\BMDebug.h"\
+	".\BMTools\BMEntity.h"\
+	".\BMTools\BMFile.h"\
+	".\BMTools\BMGlobalInclude.h"\
+	".\BMTools\BMGlobalInit.h"\
+	".\BMTools\BMKeys.h"\
+	".\BMTools\BMList.h"\
+	".\BMTools\BMMap.h"\
+	".\BMTools\BMPlayer.h"\
+	".\BMTools\BMServer.h"\
+	".\BMTools\BMSprite.h"\
+	".\BMTools\BMTimer.h"\
+	".\BMTools\BMUIFont.h"\
+	".\BMTools\BMUIOS.h"\
+	".\BMTools\BMWin32.h"\
+	".\BMTools\BMWin32Keys.h"\
+	".\BMTools\BMWin32Type.h"\
+	".\KMLLight\kmllight.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	

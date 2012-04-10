@@ -1,0 +1,14 @@
+#BEGIN_MENU
+
+#SET_DIRECTORY .\Data\Menu\
+
+#SET_BACKGROUND	Menu.bmp	NORMAL ;the picture of the background
+
+#SET_TEXT 1 X100 Y120 NORMAL normal Player
+#SET_TEXT 2 X100 Y150 NORMAL normal Control
+#SET_TEXT 3 X100 Y180 NORMAL normal Sound
+#SET_TEXT 4 X100 Y210 NORMAL normal Back
+
+#END_MENU
+
+;#SET_TEXT [TEXTID] [X---] [Y---] [FLAG] [FONTNAME] [TEXT]
